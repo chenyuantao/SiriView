@@ -1,5 +1,6 @@
 # SiriView
 SiriView for Android
+[文章地址](http://blog.csdn.net/cyt528300/article/details/51695281)
 
 ###效果图
 ![自定义View1](http://img.blog.csdn.net/20160616230719521)
